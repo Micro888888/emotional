@@ -1,4 +1,5 @@
   class Product:
+  
     # 初始化商品信息
     def _init_(self, product_number, product_name, unit_price, total_numbers, remaining_numbers):
         self.product_number = product_number
