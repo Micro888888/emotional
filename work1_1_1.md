@@ -1,3 +1,4 @@
+
  numbers = []
 print(请输入三个整数x,y,z：)
 for i in range(0, 3):
